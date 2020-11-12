@@ -82,9 +82,9 @@ const orderSchema = mongoose.Schema({
 ### PROGRESSION 3 | CREATE THE ROUTES
 Create the following routes and you need to do get, post, put and delete for all the user, product and orders.
 
-- USERROUTES
-- PRODUCTROUTES
-- ORDERROUTES
+- `UserRoutes.js`
+- `ProductRoutes.js`
+- `OrderRoutes.js`
 
 ### BONUS
 You can additonally work on the add to cart and buy product.
